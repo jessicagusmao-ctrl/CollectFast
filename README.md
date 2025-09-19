@@ -9,9 +9,9 @@ Essa plataforma busca resolver esses problemas ao auxiliar a população na redu
 
 
 ## Participantes 
-Ana Júlia Rodrigues Borsari 
-Catharina Silvestre Janúario
-Jéssica Silva Gusmão 
-Maria Eduarda Martins Da Costa
-Maria Julya Rodrigues Borges
+Ana Júlia Rodrigues Borsari;
+Catharina Silvestre Janúario;
+Jéssica Silva Gusmão;
+Maria Eduarda Martins Da Costa;
+Maria Julya Rodrigues Borges.
 --
